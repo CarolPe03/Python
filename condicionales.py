@@ -11,3 +11,5 @@ elif num==5:
     print('El numero es 5')
 else:
     print('El menor de 5')
+
+    
