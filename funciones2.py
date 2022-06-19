@@ -14,7 +14,6 @@ def conversor(tipo_pesos,valor_dolar):
     dolares= str (dolares)
     print("Tienes $"+dolares+ " dolares")
 
-
 opcion=int(input(menu))
 
 if opcion==1:
